@@ -40,6 +40,4 @@
 Функция для добавления поля и изменения текста будет одинаковой, так как 
 в mongodb можно использовать один и тот же оператор для обоих операция
 
-[Весь код DB](/ivr_tasks/example_sites/Site_mongodbdb/db.py)
-<br>
-[Весь код сайта](/ivr_tasks/example_sites/Site_mongodbdb/app.py)
+[Весь код сайта](/product_list/)
